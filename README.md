@@ -1,2 +1,3 @@
 # hospital
-https://miro.com/welcomeonboard/Ykh6Tm1zT29Od3NVTUM0SWF3NU5zZnB4ZGh4c1ZUSHRSRXJ5TExBdjhhSXczQlRHeGdpbmxNdzZwSElpNGNvVnwzMDc0NDU3MzYxOTkzMDc3Njkx
+https://miro.com/app/board/o9J_l3jOjDY=/
+
