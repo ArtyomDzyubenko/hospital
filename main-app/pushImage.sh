@@ -1,8 +1,8 @@
 #!/bin/bash
 
-imageTag=%1
+imageTag=$1
 
-if [-z $imageTag]
+if [ -z $imageTag ]
   then
     echo imageTag not provided, 'latest' will be used
     imageTag=latest
